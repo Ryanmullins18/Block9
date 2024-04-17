@@ -1,1 +1,1 @@
-# Block9
+Block 9 project is an about me website created for future use.
